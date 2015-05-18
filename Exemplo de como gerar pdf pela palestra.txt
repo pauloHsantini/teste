@@ -1,0 +1,7 @@
+Exemplo de como gerar pdf pela palestra
+
+https://github.com/hakimel/reveal.js#pdf-export
+
+http://stackoverflow.com/questions/23571270/reveal-js-print-to-pdf-only-prints-the-first-slide
+
+adicionar isso no fim: index.html?print-pdf#/
